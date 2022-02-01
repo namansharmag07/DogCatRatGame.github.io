@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment:fixed;
+   
+}
+.game{
+    margin-top:30%;
+}
+@media screen and (max-width:720px) and (min-width:420px){
+    marquee{
+        margin-top:70%;
+    }
+    .cat{
+        width:100px;
+    }
+    .dog{
+        width:100px;
+    }
+   
+}
