@@ -11,15 +11,3 @@ body{
 .game{
     margin-top:30%;
 }
-@media screen and (max-width:720px) and (min-width:420px){
-    marquee{
-        margin-top:70%;
-    }
-    .cat{
-        width:100px;
-    }
-    .dog{
-        width:100px;
-    }
-   
-}
